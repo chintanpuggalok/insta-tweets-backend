@@ -1,0 +1,30 @@
+{
+  "name": "insta-tweets-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.9.3",
+    "dom-to-image": "^2.6.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "html-to-image": "^1.9.0",
+    "hyperscript": "^2.0.2",
+    "hyperscript.org": "^0.9.7",
+    "instagram-private-api": "^1.45.3",
+    "instagram-web-api": "^2.2.2",
+    "jshint": "^2.13.5",
+    "lodash": "^4.17.21",
+    "node-html-to-image": "^3.2.4",
+    "re2": "^1.17.7",
+    "twitter-api-v2": "^1.12.3",
+    "wkhtmltox": "^1.1.5"
+  }
+}
